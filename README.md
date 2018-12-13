@@ -28,4 +28,4 @@
 
 - specific folders and files access informations
 
-![CreatePlan](./image/dashboard2.png)
+![CreatePlan](./image/Dashboard2.png)
