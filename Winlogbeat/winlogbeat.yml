@@ -45,9 +45,9 @@ setup.template.settings:
 # Optional fields that you can specify to add additional information to the
 # output.
 fields:
-    company_name: "Seoul Women's University"
+    company_name: "Company name"
     company_status: "manager"
-    company_person_name: "Suyeon Lee"
+    company_person_name: "name"
 
 #============================== Dashboards =====================================
 # These settings control loading the sample dashboards to the Kibana index. Loading
